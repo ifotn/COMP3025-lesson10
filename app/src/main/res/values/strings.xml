@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">COMP3025 Lesson 10</string>
+    <string name="action_settings">Settings</string>
+    <string name="two_screen_demo">Two Screen Demo</string>
+    <string name="welcome">Welcome</string>
+    <string name="EnterName">Enter Your Name</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>
