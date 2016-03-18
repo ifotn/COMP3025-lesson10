@@ -58,10 +58,10 @@ public class MainActivity extends AppCompatActivity {
         NameEditText.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                NameEditText.selectAll();
+                NameEditText.setText(""); // selectAll();
             }
 
-        }); 
+        });
     }
 
     public void openInfoScreen() {
